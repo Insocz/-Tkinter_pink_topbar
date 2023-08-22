@@ -1,6 +1,6 @@
 ## Tinker custom topbar purple
 
-![Topbar img](https://github.com/Insocz/Tkinter_custom_topbar_purple/blob/master/Custom_topbar.png)
+![Topbar img](https://github.com/Insocz/Tkinter_purple_topbar/blob/master/Custom_topbar.png)
 
     From this code you just need the CustomTitleBar class.
 
